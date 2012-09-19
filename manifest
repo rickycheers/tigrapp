@@ -1,8 +1,8 @@
-#appname: Tigrapp
-#publisher: porrys
-#url: http://
-#image: appicon.png
-#appid: com.kywam.tigrapp
-#desc: undefined
-#type: mobile
-#guid: ffa35ea8-b5d3-4a8b-a503-7085bc0bdd03
+#appname:TigreTrivia
+#publisher:KIWAM
+#url:http://kiwam.co
+#image:appicon.png
+#appid:com.kywam.tigretrivia
+#desc:¿Qué tanto sabes de la historia de Tigres? Con esta aplicación conocerás mejor que nadie y de una manera entretenida la historia de los Tigres.
+#type:mobile
+#guid:ffa35ea8-b5d3-4a8b-a503-7085bc0bdd03

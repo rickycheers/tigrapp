@@ -7,14 +7,14 @@
         <target device="android">true</target>
         <target device="blackberry">false</target>
     </deployment-targets>
-    <sdk-version>2.1.0.GA</sdk-version>
-    <id>com.kywam.tigrapp</id>
-    <name>Tigrapp</name>
+    <sdk-version>2.1.2.GA</sdk-version>
+    <id>com.kywam.tigretrivia</id>
+    <name>TigreTrivia</name>
     <version>1.0</version>
-    <publisher>porrys</publisher>
-    <url>http://</url>
-    <description>not specified</description>
-    <copyright>2012 by porrys</copyright>
+    <publisher>KIWAM</publisher>
+    <url>http://kiwam.co</url>
+    <description>¿Qué tanto sabes de la historia de Tigres? Con esta aplicación conocerás mejor que nadie y de una manera entretenida la historia de los Tigres.</description>
+    <copyright>2012 by KIWAM</copyright>
     <icon>appicon.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
